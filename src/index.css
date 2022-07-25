@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.div{
+    margin-top: 4em;
+    /* border: 1px solid red; */
+}

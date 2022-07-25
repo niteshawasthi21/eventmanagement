@@ -1,0 +1,59 @@
+{
+  "user": [
+    {
+      "name": "Nitesh Awasthi",
+      "phone": "7518218586",
+      "email": "tony@gmail.com",
+      "password": "Nitesh@123",
+      "id": 1
+    },
+    {
+      "name": "gfhfh",
+      "phone": "hjghj",
+      "email": "to@gmail.com",
+      "password": "sdfsdfsfs",
+      "id": 2
+    },
+    {
+      "name": "Abhishek",
+      "phone": "9345678923",
+      "email": "abhi@gmail.com",
+      "password": "Abhi@1234",
+      "id": 3
+    },
+    {
+      "name": "Deepak ",
+      "phone": "7689054356",
+      "email": "deepa@gmail.com",
+      "password": "dddd",
+      "id": 4
+    }
+  ],
+  "admin": [
+    {
+      "id": 101,
+      "name": "Nitesh Awasthi",
+      "email": "admin@gmail.com",
+      "phone": 7518218586,
+      "password": "Admin@1234"
+    }
+  ],
+  "events": [
+    {
+      "eventname": "Conference",
+      "eventdescription": "",
+      "eventsd": "2022-07-29",
+      "evented": "2022-07-30",
+      "eventdes": "Confrence on technology",
+      "id": 3
+    },
+    {
+      "eventname": "Abhishek Marriege",
+      "eventdescription": "",
+      "eventsd": "2022-07-29",
+      "evented": "2022-07-30",
+      "eventdes": "Abhishek",
+      "id": 4
+    }
+  ]
+}
